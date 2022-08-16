@@ -497,7 +497,6 @@ var verification14 = setInterval(function(){
 },1);
 
 
-
 //timer
 let p1 = document.getElementById('p1');
 let intervalId;
